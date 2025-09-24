@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-nuekrlll-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-nuekrlll-gitops
